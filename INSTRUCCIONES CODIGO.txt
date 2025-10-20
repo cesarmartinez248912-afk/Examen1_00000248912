@@ -1,0 +1,2 @@
+El código esta realizado en NetBeans 22, solamente se tiene que descargar el zip de este código, extraerlo y abrirlo como cualquier programa en NetBeans 22
+:)
